@@ -1,7 +1,7 @@
 # WEEK 1
 
 ## 8/9/2017
-Starting with the easy stuff in implementation.
+Starting with the easy stuff in implementation.  
 Program 1: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem  
 Program 2: https://www.hackerrank.com/challenges/the-birthday-bar/problem  
 Program 3: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem  
