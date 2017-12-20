@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "climits": "cpp",
+        "ostream": "cpp"
+    },
+    "python.pythonPath": "/bin/python",
+    "python.linting.pylintEnabled": false
+}

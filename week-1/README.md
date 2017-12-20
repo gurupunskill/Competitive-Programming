@@ -12,3 +12,9 @@ Continuing with the easy stuff.
 Program 5: https://www.hackerrank.com/challenges/picking-numbers/problem  
 Program 6: https://www.hackerrank.com/challenges/save-the-prisoner/problem  
 Program 7: https://www.hackerrank.com/challenges/utopian-tree/problem  
+
+## 10/9/2017
+Started with medium level implementation problems.
+Program 8: https://www.hackerrank.com/challenges/non-divisible-subset/problem  
+Program 9: https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem  
+Program 10: https://www.hackerrank.com/challenges/encryption/problem  
