@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "climits": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "bitset": "cpp"
     },
     "python.pythonPath": "/bin/python",
     "python.linting.pylintEnabled": false
