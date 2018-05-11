@@ -69,6 +69,16 @@ int main()
                 cout << -1 << " ";
             else cout << distance[i]*6 << " ";
         }
+        
+        /*for(int i = 0; i < n; i++)
+        {
+            BFS(i, adj, parent, distance);
+            cout << "\nRoot as " << i << ": ";
+            for(int j = 0; j < n; j++)
+            {
+                cout << parent[i] << " ";
+            }
+        }*/
         cout << endl;
     }
     return 0;
