@@ -91,5 +91,10 @@ int main()
         uf.unite(p,q);
         cout << p << " U " << q << endl;
     }
+
+    set<int> comps = uf.components();
+    for (set<int>::iterator i = comps.begin(); i != comps.end(); i++) {
+        cout << *i << " ";
+    }
     return 0;
 }
